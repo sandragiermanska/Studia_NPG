@@ -1,9 +1,12 @@
+<<<<<<< HEAD
 #komentarz poczatkowy
+=======
+>>>>>>> branch3
 liczba = int(input("Podaj liczbe w systemie dziesietnym\n"))
-
+#druga linia
 def pobierz():
     return int(input("1 system dwojkowy\n2 system osemkowy\n3 system szesnastkowy\n"))
-
+#piata linia
 opcja = pobierz()
 while(opcja < 1 or opcja > 3):
     print("Bledny numer. Wybierz jeszcze raz\n")

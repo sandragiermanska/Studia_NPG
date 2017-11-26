@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-liczba = int(input("Podaj liczbe w systemie dziesietnym\n"))  #pierwsza zmienna
-=======
-#to jest kod nr 5
-liczba = int(input("Podaj liczbe w systemie dziesietnym\n"))
->>>>>>> branch3
+numer = int(input("Podaj liczbe")) #komentarz
 
 def pobierz():
     return int(input("1 system dwojkowy\n2 system osemkowy\n3 system szesnastkowy\n"))
@@ -62,6 +57,6 @@ elif(opcja == 2):
     for i in range(len(tab)):
         print(tab[i], end='')
 else:
-    tab = dzies_szesn(liczba)  //kom
+    tab = dzies_szesn(liczba)
     for i in range(len(tab)):
         print(tab[i], end='')
