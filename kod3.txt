@@ -9,7 +9,7 @@ while(opcja < 1 or opcja > 3):
     print("Bledny numer. Wybierz jeszcze raz\n")
     opcja = pobierz()
 
-def dzies_osem(liczba):
+def dzies_osem(liczba):		#system dziesiêtny na ósemkowy
     tab_osem = []
     while(liczba > 0):
         part = liczba % 8
