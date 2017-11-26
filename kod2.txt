@@ -1,4 +1,4 @@
-#komentarz
+#komentarz poczatkowy
 liczba = int(input("Podaj liczbe w systemie dziesietnym\n"))
 
 def pobierz():
