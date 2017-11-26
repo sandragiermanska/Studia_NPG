@@ -1,5 +1,5 @@
-liczba = int(input("Podaj liczbe w systemie dziesietnym\n")) 
 #kom2
+
 def pobierz():
     return int(input("1 system dwojkowy\n2 system osemkowy\n3 system szesnastkowy\n"))
 
