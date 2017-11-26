@@ -1,4 +1,4 @@
-liczba = int(input("Podaj liczbe")) #komentarz
+numer = int(input("Podaj liczbe")) #komentarz
 
 def pobierz():
     return int(input("1 system dwojkowy\n2 system osemkowy\n3 system szesnastkowy\n"))
