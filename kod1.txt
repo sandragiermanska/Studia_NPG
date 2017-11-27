@@ -1,7 +1,7 @@
 #komentarz na poczatku (poprawka)
 def pobierz():
     return int(input("1 system dwojkowy\n2 system osemkowy\n3 system szesnastkowy\n"))
-
+#dodatkowy komentarz
 opcja = pobierz()
 while(opcja < 1 or opcja > 3):
     print("Bledny numer. Wybierz jeszcze raz\n")
