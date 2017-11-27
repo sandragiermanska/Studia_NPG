@@ -1,6 +1,6 @@
 #komentarz do kodu 3
 liczba = int(input("Podaj liczbe w systemie dziesietnym\n"))
-
+#poprawka
 def pobierz():
     return int(input("1 system dwojkowy\n2 system osemkowy\n3 system szesnastkowy\n"))
 
