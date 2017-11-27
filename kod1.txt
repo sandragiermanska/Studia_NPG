@@ -1,4 +1,4 @@
-#komentarz na poczatku (poprawka)
+#komentarz na poczatku (poprawa)
 def pobierz():
     return int(input("1 system dwojkowy\n2 system osemkowy\n3 system szesnastkowy\n"))
 #dodatkowy komentarz
